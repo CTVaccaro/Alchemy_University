@@ -1,0 +1,19 @@
+{
+    "user_1":
+        {
+    "priv_key":"056419cdfb4d93a3ff83bf79d42f40ef2645506112ee7af3bc147c8d9a11722d",
+    "pub_key":"04838c43f97285a556829473e06e6fd6d2b36d748468f8c374f6c6ac667699c7c11df37a9e179845516c550f8d289cbc393d762af5aba1078abe94e3cbdaecb5fe"
+        }    
+    ,
+    "user_2":
+        {
+    "priv_key":"972f76cbec1f5c3cc37c7fa7a207908ea2d387cd024976651a2dbb635189a8f9",
+    "pub_key":"04c83d279956af3f7da83d03ae5206210d8419615ca7829280a03f98e43b5e49a4cd09e473b176ba04cb5bb9f1a627d7867ca52cba6a92dbabc622bb37324d6288"
+        }    
+    ,
+    "user_3":
+        {
+    "priv_key":"681d3e1bd3e056dfca32e8586be88446b128a57cc791135daba6ed2435756eff",
+    "pub_key":"04940c76e0d4077cbb60f1f0e1e6665744505b44acaf846b619cc800eb513d50d19f48446b0b215b5e99876556025833f3fb33fb940f5ed503ed9b92ce0052c51e"
+        }    
+}
