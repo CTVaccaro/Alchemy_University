@@ -1,0 +1,18 @@
+{
+  "name": "contract_communication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "alchemy-sdk": "^2.3.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "require": "^2.4.20"
+  }
+}
